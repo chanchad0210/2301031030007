@@ -1,0 +1,14 @@
+{
+  "name": "furniture_shopping_-_minimal_ui_kit_(community)",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel ./*.html ",
+    "build": "parcel build ./*.html  --dist-dir ./build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
